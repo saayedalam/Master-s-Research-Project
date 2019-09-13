@@ -6,7 +6,7 @@ On the first quarter of 2019, my sister got married in Newcastle, United Kingdom
 
 In the moment I was not thinking about the data science that determined my fate. Even though it was disheartening, this fraud prevention system is saving consumers millions of dollars per year.  
 
-Researchers from the IEEE Computational Intelligence Society (IEEE-CIS) want to improve this figure, while also improving the customer experience. They are partnering with the world’s leading payment service company, Vesta Corporation, seeking the best solutions for fraud prevention industry, and they have invited data scientists to join the challenge on Kaggle. 
+Researchers from the [IEEE Computational Intelligence Society (IEEE-CIS)](https://en.wikipedia.org/wiki/IEEE_Computational_Intelligence_Society) want to improve this figure, while also improving the customer experience. They are partnering with the world’s leading payment service company, [Vesta Corporation](https://trustvesta.com/), seeking the best solutions for fraud prevention industry, and they have invited data scientists to join the challenge on [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection/overview). 
 
 # 2.	Why It’s Interesting
 
@@ -20,7 +20,7 @@ I believe this project brings my career full circle. With master’s program, th
 
 Within a year, the field of machine learning and data science have advanced so much. I believe with this advancement and my knowledge of the domain; I can apply new algorithms and tools such as TensorFlow to improve or solve the problem. 
 
-ClearSale, a large fraud management company from Brazil with customers such as Sony, Walmart and others; recently posted a blog. In this blog they state, “the biggest e-commerce challenge of 2019 may be balancing marketing and sales channel innovation with the need for increasingly sophisticated fraud prevention.”  
+[ClearSale](https://en.wikipedia.org/wiki/ClearSale), a large fraud management company from Brazil with customers such as Sony, Walmart and others; recently posted a blog. In this blog they state, [“the biggest e-commerce challenge of 2019 may be balancing marketing and sales channel innovation with the need for increasingly sophisticated fraud prevention.”](https://blog.clear.sale/do-we-have-enough-data-scientists-to-protect-against-e-commerce-fraud)
 
 It is evident there is lot of room for improvement in fraud prevention, I hope to contribute my expertise and knowledge to this noble cause. 
 
