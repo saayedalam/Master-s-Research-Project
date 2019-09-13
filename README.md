@@ -14,7 +14,7 @@ There are two main reasons for picking this problem. First, I believe this probl
 
 Second, I had only one white-collar job in my career and this is exactly what I did. Before I started working on my bachelor’s program, I was hired as an office assistant at an ecommerce payment solutions company. Through hard work I soon became their junior data analyst, manually verifying over $10K worth of transactions per day.  
 
-I believe this project brings my career full circle. With master’s program, this capstone project coupled with my only job experience, I can land a job in the financial sector. 
+I believe this project brings my career full circle. With master’s program, this capstone project coupled with my job experience, I can land a job in the financial sector. 
 
 # 3.	What Other Approaches 
 
